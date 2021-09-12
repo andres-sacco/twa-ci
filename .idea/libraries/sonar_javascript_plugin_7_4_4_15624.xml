@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sonar-javascript-plugin-7.4.4.15624">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sonar/data/web/deploy/plugins/javascript/sonar-javascript-plugin-7.4.4.15624.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

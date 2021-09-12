@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sonar-php-plugin-3.17.0.7439">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sonar/data/web/deploy/plugins/php/sonar-php-plugin-3.17.0.7439.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

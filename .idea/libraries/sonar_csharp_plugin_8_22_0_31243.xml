@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sonar-csharp-plugin-8.22.0.31243">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sonar/data/web/deploy/plugins/csharp/sonar-csharp-plugin-8.22.0.31243.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

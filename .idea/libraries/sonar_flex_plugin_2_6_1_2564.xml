@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sonar-flex-plugin-2.6.1.2564">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sonar/data/web/deploy/plugins/flex/sonar-flex-plugin-2.6.1.2564.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
