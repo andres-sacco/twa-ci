@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="sonar-css-plugin-1.4.2.2002">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/sonar/data/web/deploy/plugins/cssfamily/sonar-css-plugin-1.4.2.2002.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
