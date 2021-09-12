@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="sonar-scala-plugin-1.8.3.2219">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/sonar/data/web/deploy/plugins/sonarscala/sonar-scala-plugin-1.8.3.2219.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
