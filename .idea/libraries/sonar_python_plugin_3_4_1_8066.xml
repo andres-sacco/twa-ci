@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="sonar-python-plugin-3.4.1.8066">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/sonar/data/web/deploy/plugins/python/sonar-python-plugin-3.4.1.8066.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
