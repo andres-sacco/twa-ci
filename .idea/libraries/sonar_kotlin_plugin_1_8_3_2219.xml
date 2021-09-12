@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="sonar-kotlin-plugin-1.8.3.2219">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/sonar/data/web/deploy/plugins/kotlin/sonar-kotlin-plugin-1.8.3.2219.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
