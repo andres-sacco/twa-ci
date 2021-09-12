@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="sonar-go-plugin-1.8.3.2219">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/sonar/data/web/deploy/plugins/go/sonar-go-plugin-1.8.3.2219.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
