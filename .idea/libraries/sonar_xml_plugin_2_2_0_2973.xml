@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="sonar-xml-plugin-2.2.0.2973">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/sonar/data/web/deploy/plugins/xml/sonar-xml-plugin-2.2.0.2973.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
