@@ -8,7 +8,6 @@ checks-api:1.7.2
 command-launcher:1.6
 credentials-binding:1.27
 credentials:2.6.1
-dependency-track:4.0.0
 docker-workflow:1.26
 display-url-api:2.3.5
 echarts-api:5.1.2-11
