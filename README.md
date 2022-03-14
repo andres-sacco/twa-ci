@@ -11,6 +11,7 @@ The following are the most important topics in this file:
 - [Structure](#Structure)
   - [Jenkins](#Jenkins)
   - [Sonar](#Sonar)  
+- [Pipeline Steps](#pipeline-steps)
 - [Run the CI](#run-the-ci)
 - [Considerations](#Considerations)
 - [Further readings](#further-readings)
@@ -56,6 +57,20 @@ As you can see in the previous image contains all the information related to the
 
 If you click on any of the microservices will appears a page with more information about the quality of the new code versus the previous one.
 ![SonarQube-Detail](.images/CI-SonarQube-Detail.png)
+
+### Pipeline Steps
+
+As you can see on the following image the pipeline have a certain number of steps, each of them do a specific task.
+
+![Jenkins-Pipeline](.images/CI-Jenkins-Pipeline.png)
+
+* **Declarative: Checkout SCM** - This step will download the code and very if the form of the pipeline is correct or not.
+* **Declarative: Tool install** - This step will download and configure all the libraries or job to run the following steps that of the pipeline. 
+* **Compile** - This step will try to compile the entire code of the microservices. To do this execute the command 'mvn compile'
+* **Unit Test** - On this step the pipeline will run the unit test using the command 'mvn test'.
+* **Quality** - On this step the pipeline will publish to Sonar all the metrics about the project like code coverage, possible bugs. 
+* **Package** - This step create the executable to run the application, basically run the command 'mvn package' 
+
 
 ### Run the CI
 
