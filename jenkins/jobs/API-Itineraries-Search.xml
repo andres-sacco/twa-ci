@@ -34,17 +34,17 @@
       <configVersion>2</configVersion>
       <userRemoteConfigs>
         <hudson.plugins.git.UserRemoteConfig>
-          <url>https://github.com/manning-lp/perpk-unit-test-of-architecture-lp</url>
+          <url>https://github.com/manning-lp/perpk-secure-code-lp</url>
         </hudson.plugins.git.UserRemoteConfig>
       </userRemoteConfigs>
       <branches>
         <hudson.plugins.git.BranchSpec>
-          <name>*/4_ci</name>
+          <name>*/2_dependency_check</name>
         </hudson.plugins.git.BranchSpec>
       </branches>
       <doGenerateSubmoduleConfigurations>false</doGenerateSubmoduleConfigurations>
       <browser class="hudson.plugins.git.browser.CGit">
-        <url>https://github.com/manning-lp/perpk-unit-test-of-architecture-lp</url>
+        <url>https://github.com/manning-lp/perpk-secure-code-lp</url>
       </browser>
       <submoduleCfg class="empty-list"/>
       <extensions>

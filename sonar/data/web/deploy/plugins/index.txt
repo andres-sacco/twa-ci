@@ -1,3 +1,4 @@
+dependencycheck,false,sonar-dependency-check-plugin-3.0.1.jar|a28d843dccf2c1d53db8a682552b3c76
 python,true,sonar-python-plugin-3.4.1.8066.jar|5fb8bce478336005cbb874226ab0e928
 cssfamily,false,sonar-css-plugin-1.4.2.2002.jar|ab11b76ad899a6ad17c72a1dfc926cc3
 kotlin,true,sonar-kotlin-plugin-1.8.3.2219.jar|6af73ab27cd9b8fc45a8cfea864efe69
