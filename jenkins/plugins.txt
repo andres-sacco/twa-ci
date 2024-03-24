@@ -1,6 +1,5 @@
 antisamy-markup-formatter
 apache-httpcomponents-client-4-api
-bootstrap4-api
 bootstrap5-api
 bouncycastle-api
 caffeine-api
@@ -28,8 +27,6 @@ pipeline-model-definition
 pipeline-stage-view
 plain-credentials
 plugin-util-api
-popper-api
-popper2-api
 scm-api
 script-security
 snakeyaml-api
